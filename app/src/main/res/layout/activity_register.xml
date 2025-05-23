@@ -5,13 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="#2C3E50"
     android:padding="24dp">
 
     <TextView
         android:id="@+id/tvRegisterTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Register"
+        android:text="Register now"
         android:textSize="24sp"
         android:textStyle="bold"
         android:layout_gravity="center_horizontal"
@@ -20,46 +21,66 @@
     <EditText
         android:id="@+id/edtName"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="46dp"
+        android:background="#FFFFFF"
         android:hint="Nama"
         android:inputType="textPersonName" />
 
     <EditText
         android:id="@+id/edtEmail"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="44dp"
+        android:layout_marginTop="16dp"
+        android:background="#FFFFFF"
         android:hint="Email"
         android:inputType="textEmailAddress"
-        android:layout_marginTop="16dp" />
+        android:drawableStart="@drawable/baseline_attach_email_24"
+        android:drawablePadding="10dp"
+        />
 
     <EditText
         android:id="@+id/edtPassword"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="45dp"
+        android:layout_marginTop="16dp"
+        android:background="#FFFFFF"
         android:hint="Password"
-        android:inputType="textPassword"
-        android:layout_marginTop="16dp" />
+        android:drawableStart="@drawable/baseline_password_24"
+        android:inputType="textPassword" />
 
     <EditText
         android:id="@+id/edtConfirmPassword"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginTop="16dp"
+        android:background="#FFFFFF"
         android:hint="Konfirmasi Password"
-        android:inputType="textPassword"
-        android:layout_marginTop="16dp" />
+        android:inputType="textPassword" />
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnRegister"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Register"
+        android:text="REGISTER"
+        android:textAllCaps="true"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/orange_button_background"
+        android:fontFamily="sans-serif-medium"
+        android:padding="12dp"
         android:layout_marginTop="24dp" />
 
-    <Button
+
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnToLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Sudah punya akun? Login"
+        android:text="kembali ke login"
+        android:textAllCaps="true"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/orange_button_background"
+        android:fontFamily="sans-serif-medium"
+        android:padding="12dp"
         android:layout_marginTop="12dp" />
+
 
 </LinearLayout>

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.rtamaaa.loginsqlite"
+    namespace = "com.rnld.loginsqlite"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.rtamaaa.loginsqlite"
+        applicationId = "com.rnld.loginsqlite"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
