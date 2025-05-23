@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#2C3E50"
+    android:background="#95a5a6"
     android:padding="24dp">
 
     <TextView
@@ -61,7 +61,7 @@
         android:id="@+id/btnToRegister"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="BELUM PUNYA AKUN? register"
+        android:text="No Have Account? register"
         android:textAllCaps="true"
         android:textColor="#FFFFFF"
         android:background="@drawable/orange_button_background"

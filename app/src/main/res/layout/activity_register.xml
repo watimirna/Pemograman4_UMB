@@ -14,6 +14,7 @@
         android:layout_height="wrap_content"
         android:text="Register now"
         android:textSize="24sp"
+        android:textColor="#fdfefe"
         android:textStyle="bold"
         android:layout_gravity="center_horizontal"
         android:layout_marginBottom="24dp" />
@@ -23,7 +24,7 @@
         android:layout_width="match_parent"
         android:layout_height="46dp"
         android:background="#FFFFFF"
-        android:hint="Nama"
+        android:hint="Name"
         android:inputType="textPersonName" />
 
     <EditText
@@ -34,7 +35,7 @@
         android:background="#FFFFFF"
         android:hint="Email"
         android:inputType="textEmailAddress"
-        android:drawableStart="@drawable/baseline_attach_email_24"
+        android:drawableStart=""
         android:drawablePadding="10dp"
         />
 
@@ -45,7 +46,7 @@
         android:layout_marginTop="16dp"
         android:background="#FFFFFF"
         android:hint="Password"
-        android:drawableStart="@drawable/baseline_password_24"
+        android:drawableStart=""
         android:inputType="textPassword" />
 
     <EditText
@@ -54,7 +55,7 @@
         android:layout_height="48dp"
         android:layout_marginTop="16dp"
         android:background="#FFFFFF"
-        android:hint="Konfirmasi Password"
+        android:hint="Confirm Password"
         android:inputType="textPassword" />
 
     <androidx.appcompat.widget.AppCompatButton
@@ -74,7 +75,7 @@
         android:id="@+id/btnToLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="kembali ke login"
+        android:text="Back to Login"
         android:textAllCaps="true"
         android:textColor="#FFFFFF"
         android:background="@drawable/orange_button_background"
