@@ -1,5 +1,5 @@
-## Nama : Renaldi Muhammad Fauzi 
-## Nim  : 220220027
+## Nama : Mirnawati 
+## Nim  : 220220026
 ## Universitas Muhammadiyah Banten 
 
 
@@ -68,7 +68,7 @@ Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan reg
 ## 📱Tampilan Login 
 ![alt text](https://github.com/watimirna/Pemograman4_UMB/blob/master/gambar/login.png?raw=true)
 ## 📲Tampilan Register
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/Register.png?raw=true)
+![alt text](https://github.com/watimirna/Pemograman4_UMB/blob/master/gambar/Register.png?raw=true)
 ## 📵Login Gagal
 ![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login%20gagal.png?raw=true)
 ## ⛔Password kurang dari 6 karakter
