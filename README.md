@@ -66,7 +66,7 @@ Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan reg
 
 ---
 ## 📱Tampilan Login 
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login.png?raw=true)
+![alt text](https://github.com/watimirna/Pemograman4_UMB/blob/master/gambar/login.png?raw=true)
 ## 📲Tampilan Register
 ![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/Register.png?raw=true)
 ## 📵Login Gagal
