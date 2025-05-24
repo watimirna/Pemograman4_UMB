@@ -72,7 +72,7 @@ Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan reg
 ## 📵Login Gagal
 ![alt text](https://github.com/watimirna/Pemograman4_UMB/blob/master/gambar/Login%20Gagal.png?raw=true)
 ## ⛔Password kurang dari 6 karakter
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/password%20kurang.png?raw=true)
+![alt text](https://github.com/watimirna/Pemograman4_UMB/blob/master/gambar/Password%20kurang%20dari%206%20karakter.png?raw=true)
 ## ✅Login Berhasil
 ![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login%20berhasil.png?raw=true)
 ## 🛠️ Tools & Teknologi
